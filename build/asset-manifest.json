@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1fc5859.css",
+    "main.js": "/static/js/main.25e5ec54.js",
+    "static/media/mascote2025.png": "/static/media/mascote2025.5d4eb566fc1d71be31d0.png",
+    "static/media/background.png": "/static/media/background.a3c3dd7e85fee9282231.png",
+    "static/media/logo_obr2025.png": "/static/media/logo_obr2025.c1127312ad04b28ee5a1.png",
+    "static/media/logo_citec2024.png": "/static/media/logo_citec2024.954aa8ef3cab3c01c201.png",
+    "static/media/StateWide-Bold.ttf": "/static/media/StateWide-Bold.25aa201c13e5ba8bf3ed.ttf",
+    "index.html": "/index.html",
+    "main.e1fc5859.css.map": "/static/css/main.e1fc5859.css.map",
+    "main.25e5ec54.js.map": "/static/js/main.25e5ec54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1fc5859.css",
+    "static/js/main.25e5ec54.js"
+  ]
+}
