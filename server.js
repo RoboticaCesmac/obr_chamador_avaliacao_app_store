@@ -3,7 +3,7 @@ const path = require("path");
 
 // Projeto 1
 const app1 = express();
-const PORT1 = 3002;
+const PORT1 = 3003;
 app1.use(express.static(path.join(__dirname, "tournamenter-obr")));
 
 app1.listen(PORT1, () => {
