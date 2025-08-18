@@ -14,12 +14,12 @@ app1.listen(PORT1, () => {
 const app2 = express();
 const PORT2 = 3002;
 
-app2.use(express.static(path.join(__dirname, "build"))); // <-- adicione isso!
+app2.use(express.static(path.join(__dirname, "build")));
 
 app2.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "build", "index.html"));
 });
 
 app2.listen(PORT2, "0.0.0.0", () => {
-  console.log("Projeto 2 rodando na porta 3002");
+  console.log(`Projeto 2 rodando em http://0.0.0.0:${PORT2}`);
 });
